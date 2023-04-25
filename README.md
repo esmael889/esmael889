@@ -4,7 +4,7 @@
 
 <div align=center>
           <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmael889&label=Profile%20views&color=0e75b6&style=flat" alt="esmael889" /> </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Esmael+Mosad+%F0%9F%91%8B;Computer+Science+Student;Passionate+Front+Enddeveloper;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Esmael+Mosad+%F0%9F%91%8B;Computer+Science+Student;Front+End+developer;" alt="Headline" />
     </div>
 
 - 🔭 I’m currently working as a frontend developer
