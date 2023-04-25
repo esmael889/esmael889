@@ -3,17 +3,17 @@
     </div>
 
 <div align=center>
-          <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtarek26&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtarek26" /> </p>
+          <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmael889&label=Profile%20views&color=0e75b6&style=flat" alt="esmael889" /> </p>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Tarek+%F0%9F%91%8B;Computer+Science+Student;Passionate+Data+Scientist;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
-- 🔭 I’m currently working on **psychiatric disorders Classification Research using NN**
+- 🔭 I’m currently working as a frontend developer
 
-- 🌱 I’m currently learning **MLOps , Soccer Analytics ⚽**
+- 🌱 I’m currently learning **React js , sass **
 
-- 📫 How to reach me **ahmedtarek2632@gmail.com**
+- 📫 How to reach me **esmaelll12367@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sVBalgoa-AUldEN9LCzM_43E4P1WuN80/view?usp=share_link)
+- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1qKlO04OhFxPfYvfH8HYESmIJ34AZvAIt/view?usp=drivesdk)
 
 - ⚡ Fun fact **I like Swimming 🏊‍♀️😁**
 
