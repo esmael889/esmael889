@@ -29,6 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmael889&layout=compact&theme=dark&hide_border=true&hide=ruby&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esmael889&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmael889&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmael889&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
