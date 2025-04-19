@@ -6,7 +6,7 @@
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=esmael889&label=Profile%20views&color=0e75b6&style=flat" alt="esmael889" /> 
   </p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Esmael+Mosad+%F0%9F%91%8B;Graduated+From+Faculty of computer science;Fullstack+Developer;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Esmael+Mosad+%F0%9F%91%8B;Graduated+From+Computer+Science;Fullstack+Developer;" alt="Headline" />
 </div>
 
 - 🔭 I’m currently working as a **Fullstack Developer**
